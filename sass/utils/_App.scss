@@ -1,0 +1,35 @@
+* {
+    
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif !important;
+    transition: 250ms;
+    color: black;
+
+}
+
+a {
+    text-decoration: none;
+}
+li {
+    list-style: none;
+}
+:root {
+    --bg-color: #ffffff;
+    --color: black;
+    --font-size: 14px;
+    --fontsize-h1: 60px;
+    --fontweigh-h1: medium;
+    --fontsize-h2: 48px;
+    --fontweigh-h2: medium;
+}
+body {
+    width: 1600px;
+    background-color: var(--bg-color);
+    color: var(--color);
+    box-sizing: border-box; 
+    font-size: var(--font-size);   
+}
+.active {
+    color: blue;
+}

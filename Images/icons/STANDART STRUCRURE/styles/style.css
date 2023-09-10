@@ -1,0 +1,5 @@
+@import url("./utils/App.css");
+@import url("./utils/normalize.css");
+@import url("./components/Header.css");
+@import url("./components/Main.css");
+@import url("./components/Footer.css");
